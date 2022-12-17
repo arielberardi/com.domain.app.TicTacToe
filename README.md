@@ -1,5 +1,7 @@
 # TicTacToe
 
+![TicTacToe Running](sample.jpg)
+
 ## com.domain.app.TicTacToe
 
 ### Getting started
